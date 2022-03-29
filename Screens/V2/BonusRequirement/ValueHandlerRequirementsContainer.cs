@@ -12,7 +12,7 @@ namespace UIScripts.Screens.V2.BonusRequirement
 
         public IRequirementView GetRequirementView(int id)
         {
-            
+            return null;
         }
     }
 }
